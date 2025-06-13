@@ -2,7 +2,10 @@
 
 ---
 
-![Podcast Dinleme](podcast.jpg)
+<p align="center">
+  <img src="podcast.jpg" alt="Podcast Dinleme" width="500"/>
+</p>
+
 
 Bu projede, bir podcastin dinlenme süresini (**dakika cinsinden**) tahmin etmeye yönelik bir regresyon modeli geliştirdim. Modelin doğruluğunu değerlendirmek için **RMSE (Root Mean Squared Error)** metriğini kullandım. Bu metriği tercih etmemin nedeni, yarışmayı düzenleyen **Kaggle** platformunun resmi değerlendirme metriği olarak RMSE’yi belirlemiş olmasıdır. Ayrıca RMSE, büyük tahmin hatalarını daha fazla cezalandırarak modelin performansını hassas biçimde ölçen etkili bir yöntemdir.
 
