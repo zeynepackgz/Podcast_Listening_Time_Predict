@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="podcast.jpg" alt="Podcast Dinleme" width="500"/>
+  <img src="podcast_img.jpg" alt="Podcast Dinleme" width="450"/>
 </p>
 
 
